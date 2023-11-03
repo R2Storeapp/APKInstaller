@@ -25,9 +25,9 @@
 ![blocks(4)](https://github.com/R2Storeapp/APKInstaller/assets/147613731/7c6fba47-c65a-4fa3-bf8c-3a7cb1166b84)
 
 ### Download
-> ****🌎 Released on :** 27 October 2023**
+> ****🌎 Released on :** 3 November 2023**
 > 
-> ****🌎 Updated on :** 27 October 2023**
+> ****🌎 Updated on :** 3 November 2023**
 > 
 > ****⚙️ Latest Version :** 1.0**
 > [com.r2store.apkinstaller.aix](http://r2store.000.pe/)
